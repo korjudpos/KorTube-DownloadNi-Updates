@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/korjudpos/KorTube-DownloadNi-Updates/releases/download/v1.0.0/KorTube-DownloadNi.exe",
+  "sha256": "9F03D91F5A64DD0478293F864DA169E8C82D8AE44BB92B83FD59267FE15F0C67",
+  "notes": "First release with built-in update support."
+}
