@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "download_url": "https://github.com/korjudpos/KorTube-DownloadNi-Updates/releases/download/v1.0.1/KorTube-DownloadNi.exe",
+  "download_url": "https://github.com/korjudpos/KorTube-DownloadNi-Updates/releases/download/v1.0.1/KorTube.DownloadNi.exe",
   "sha256": "FFDEBA57EF5AEC009235FEE16CB346AFBC59CCAAD44F104A7E9362CEDC3A87B5",
   "notes": "อัปเดต Remove BG, Preview ขนาดเต็ม, เลือกที่บันทึก PNG, ปรับ UI และไอคอนใหม่"
 }
