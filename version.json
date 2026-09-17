@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/korjudpos/KorTube-DownloadNi-Updates/releases/download/v1.0.2/KorTube-DownloadNi.exe",
-  "sha256": "039C8CEB652850997692410CA51DEB9E241652AFF958B19D61055F9238709F45",
-  "notes": "Improved Remove BG quality selector readability and added an in-app version badge."
+  "version": "1.0.3",
+  "download_url": "https://github.com/korjudpos/KorTube-DownloadNi-Updates/releases/download/v1.0.3/KorTube-DownloadNi.exe",
+  "sha256": "9BC5D8A8DC4AC282677E661C73269C7CAAD709283D217004D88BD8676D9ECAD0",
+  "notes": "อัปเดต Download Audio (กำลังพัฒนา), แก้ชื่อไฟล์วิดีโอจาก Facebook ที่ยาวเกิน Windows, ปรับ UI และ Remove BG ล่าสุด"
 }
